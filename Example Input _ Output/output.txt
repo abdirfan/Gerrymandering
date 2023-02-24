@@ -1,0 +1,107 @@
+./program.exe
+Welcome to the Gerrymandering App!
+
+Data loaded? No
+State: N/A
+
+Enter command: 
+-----------------------------
+
+Reading: districts_short.txt
+...Montana...1 districts total
+...California...53 districts total
+...Connecticut...5 districts total
+...Illinois...18 districts total
+...Iowa...4 districts total
+...Nebraska...3 districts total
+...Rhode Island...2 districts total
+...New Mexico...3 districts total
+...Minnesota...8 districts total
+...Colorado...7 districts total
+
+Reading: eligible_voters_short.txt
+...California...25278803 eligible voters
+...Colorado...3978892 eligible voters
+...Connecticut...2572337 eligible voters
+...Illinois...8983758 eligible voters
+...Iowa...2297129 eligible voters
+...Minnesota...3972330 eligible voters
+...Montana...803833 eligible voters
+...Nebraska...1353558 eligible voters
+...New Mexico...1459901 eligible voters
+...Rhode Island...786111 eligible voters
+
+Data loaded? Yes
+State: N/A
+
+Enter command: 
+-----------------------------
+
+Data loaded? Yes
+State: Illinois
+
+Enter command: 
+-----------------------------
+
+Gerrymandered: No
+Wasted Democratic votes: 921521
+Wasted Republican votes: 850785
+Eligible voters: 8983758
+
+Data loaded? Yes
+State: Illinois
+
+Enter command: 
+-----------------------------
+
+Data loaded? Yes
+State: California
+
+Enter command: 
+-----------------------------
+
+Gerrymandered: No
+Wasted Democratic votes: 1575157
+Wasted Republican votes: 1933999
+Eligible voters: 25278803
+
+Data loaded? Yes
+State: California
+
+Enter command: 
+-----------------------------
+
+Data loaded? Yes
+State: Iowa
+
+Enter command: 
+-----------------------------
+
+Gerrymandered: Yes
+Gerrymandered against: Democrats
+Efficiency Factor: 17.4621%
+Wasted Democratic votes: 372745
+Wasted Republican votes: 179779
+Eligible voters: 2297129
+
+Data loaded? Yes
+State: Iowa
+
+Enter command: 
+-----------------------------
+
+District: 1
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+District: 2
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+District: 3
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+District: 4
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+Data loaded? Yes
+State: Iowa
+
+Enter command: 
+-----------------------------
+

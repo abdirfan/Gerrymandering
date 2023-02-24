@@ -1,0 +1,9 @@
+load districts_short.txt eligible_voters_short.txt
+search illinois
+stats
+search California
+stats
+search iowa
+stats
+plot
+exit
